@@ -40,7 +40,6 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
         body: Center(
           child: CarInfoDetails(
-            // const Text('Details of the new made car information'),
             numberPlate: 'UPA 051C',
             carColor: 'Red',
             engineNumber: 'UGA-2023-08-26:13-40PM',
